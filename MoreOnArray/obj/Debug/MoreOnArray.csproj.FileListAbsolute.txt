@@ -1,0 +1,5 @@
+C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\bin\Debug\MoreOnArray.exe.config
+C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\bin\Debug\MoreOnArray.exe
+C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\bin\Debug\MoreOnArray.pdb
+C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\obj\Debug\MoreOnArray.exe
+C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\obj\Debug\MoreOnArray.pdb
