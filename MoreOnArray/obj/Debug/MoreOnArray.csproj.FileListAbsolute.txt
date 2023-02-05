@@ -4,3 +4,10 @@ C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\bin\Debug\MoreO
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\obj\Debug\MoreOnArray.exe
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\obj\Debug\MoreOnArray.pdb
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\MoreOnArray\obj\Debug\MoreOnArray.csprojResolveAssemblyReference.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\bin\Debug\MoreOnArray.exe.config
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\bin\Debug\MoreOnArray.exe
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\bin\Debug\MoreOnArray.pdb
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\obj\Debug\MoreOnArray.csproj.AssemblyReference.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\obj\Debug\MoreOnArray.csproj.CoreCompileInputs.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\obj\Debug\MoreOnArray.exe
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\MoreOnArray\obj\Debug\MoreOnArray.pdb

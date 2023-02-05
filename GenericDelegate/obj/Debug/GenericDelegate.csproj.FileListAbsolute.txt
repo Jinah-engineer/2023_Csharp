@@ -4,3 +4,10 @@ C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\GenericDelegate\bin\Debug\G
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\GenericDelegate\obj\Debug\GenericDelegate.csprojResolveAssemblyReference.cache
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\GenericDelegate\obj\Debug\GenericDelegate.exe
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\GenericDelegate\obj\Debug\GenericDelegate.pdb
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\bin\Debug\GenericDelegate.exe.config
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\bin\Debug\GenericDelegate.exe
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\bin\Debug\GenericDelegate.pdb
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\obj\Debug\GenericDelegate.csproj.AssemblyReference.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\obj\Debug\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\obj\Debug\GenericDelegate.exe
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\GenericDelegate\obj\Debug\GenericDelegate.pdb

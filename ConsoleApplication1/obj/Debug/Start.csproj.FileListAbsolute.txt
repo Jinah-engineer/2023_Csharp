@@ -4,3 +4,10 @@ C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\ConsoleApplication1\obj\Deb
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\박진아\Desktop\Study\csharp\ThisIsCsharp\ConsoleApplication1\obj\Debug\Start.csprojResolveAssemblyReference.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\obj\Debug\Start.csproj.AssemblyReference.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\obj\Debug\Start.csproj.CoreCompileInputs.cache
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Jinah Park\Desktop\jinmaspace\ThisIsCsharp\2023_Csharp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
