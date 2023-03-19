@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingExpressionTree", "Usin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpressionBodiedMember", "ExpressionBodiedMember\ExpressionBodiedMember.csproj", "{5EB038C2-94F4-44DB-AFB3-61CE5FF40C59}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLinq", "SimpleLinq\SimpleLinq.csproj", "{6491E28E-87AE-4F52-8D6F-101B0AEBAABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBy", "GroupBy\GroupBy.csproj", "{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{5EB038C2-94F4-44DB-AFB3-61CE5FF40C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EB038C2-94F4-44DB-AFB3-61CE5FF40C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EB038C2-94F4-44DB-AFB3-61CE5FF40C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6491E28E-87AE-4F52-8D6F-101B0AEBAABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6491E28E-87AE-4F52-8D6F-101B0AEBAABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6491E28E-87AE-4F52-8D6F-101B0AEBAABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6491E28E-87AE-4F52-8D6F-101B0AEBAABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
