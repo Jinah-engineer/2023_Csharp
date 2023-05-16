@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLinq", "SimpleLinq\Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupBy", "GroupBy\GroupBy.csproj", "{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapter18", "chapter18", "{FCE0B659-08E1-4125-9493-4C7FC771401C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dir", "Dir\Dir.csproj", "{2B78EFD9-2B0C-4D0D-B6BA-1CF98BFE7714}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,9 +67,16 @@ Global
 		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91CE6542-EAF9-436B-8CAE-D9E7084EEA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B78EFD9-2B0C-4D0D-B6BA-1CF98BFE7714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B78EFD9-2B0C-4D0D-B6BA-1CF98BFE7714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B78EFD9-2B0C-4D0D-B6BA-1CF98BFE7714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B78EFD9-2B0C-4D0D-B6BA-1CF98BFE7714}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B78EFD9-2B0C-4D0D-B6BA-1CF98BFE7714} = {FCE0B659-08E1-4125-9493-4C7FC771401C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {38AF94FF-5C32-4148-9662-98AB8CA32091}
